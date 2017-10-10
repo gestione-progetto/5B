@@ -4,8 +4,7 @@
 
 ### 16 Settembre 2017
 
-1. [Software/System development life cycle](http://svel.to/o99)
-2. [Load Balancing](http://svel.to/njh)
+1. [Load Balancing](http://svel.to/njh)
 
 ## 19 Settembre 2017
 
@@ -30,3 +29,7 @@
 
 1. [History of Information System](https://docs.google.com/presentation/d/1Ajg89e86b-UEnUKgRlBaA-uDf1oKeDnUrMpdIf1SG3w/edit?usp=sharing).
 2. [Information System Introduction - TEST](https://goo.gl/forms/NmwBBuRsmf7MpxfW2).
+
+## 10 ottobre 2017
+
+1. [Software/System development life cycle](http://svel.to/o99), [TEST](http://svel.to/oh6)
