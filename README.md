@@ -33,3 +33,13 @@
 ## 10 ottobre 2017
 
 1. [Software/System development life cycle](http://svel.to/o99), [TEST](http://svel.to/oh6)
+
+
+## 8 novembre 2017
+
+1. [Corporate titles](http://svel.to/oof), [TEST](http://svel.to/ovu)
+
+
+## 14 novembre 2017
+
+1 [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
