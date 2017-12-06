@@ -43,3 +43,7 @@
 ## 14 novembre 2017
 
 1 [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+
+## 6 dicembre 2017
+
+1 [Diversità degli utenti e iperfunzionalità](http://svel.to/p6t), [TEST](http://svel.to/p6v)
