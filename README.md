@@ -42,12 +42,21 @@
 
 ## 14 novembre 2017
 
-1 [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
+1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
 
 ## 6 dicembre 2017
 
-1 [Diversità degli utenti e iperfunzionalità](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+1. [Diversità degli utenti e iperfunzionalità](http://svel.to/p6t), [TEST](http://svel.to/p6v)
 
 ## 20 dicembre 2017
 
-1 [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+1. [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+
+## 09 gennaio 2017
+1. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+
+## 10 gennaio 2017
+1. [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
+
+## 16 gennaio 2018
+1. [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
