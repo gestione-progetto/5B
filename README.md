@@ -39,24 +39,15 @@
 
 1. [Corporate titles](http://svel.to/oof), [TEST](http://svel.to/ovu)
 
+<hr>
 
-## 14 novembre 2017
+## Argomenti della prova scritta di GPO prevista per giovedì 22 febbraio 2018.
 
 1. [Sistemi interattivi e interfacce d'uso](http://svel.to/p3y), [TEST](http://svel.to/p3z)
-
-## 6 dicembre 2017
-
-1. [Diversità degli utenti e iperfunzionalità](http://svel.to/p6t), [TEST](http://svel.to/p6v)
-
-## 20 dicembre 2017
-
-1. [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
-
-## 09 gennaio 2017
-1. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
-
-## 10 gennaio 2017
-1. [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
-
-## 16 gennaio 2018
-1. [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
+2. [Diversità degli utenti e iperfunzionalità](http://svel.to/p6t), [TEST](http://svel.to/p6v)
+3. [Periferiche di input output](http://svel.to/ph1), [TEST](http://svel.to/pih)
+4. [Usabilità - Introduzione](http://svel.to/pk2), [TEST](http://svel.to/pob)
+5. [Progettare per l'utente](http://svel.to/poc), [TEST](http://svel.to/po2)
+6. [Search Engine Optimization](http://svel.to/q29), [TEST](http://svel.to/q28)
+7. [Progettare la grafica](http://svel.to/q55), [TEST](http://svel.to/q6d)
+8. [Progettare il testo](http://svel.to/quv), [TEST](http://svel.to/qun)
